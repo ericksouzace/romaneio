@@ -1,0 +1,24 @@
+{
+  "name": "Romaneio Pijama de Rica",
+  "short_name": "Romaneio",
+  "description": "Aplicativo de romaneio para Pijama de Rica.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffaf4",
+  "theme_color": "#b6905c",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
